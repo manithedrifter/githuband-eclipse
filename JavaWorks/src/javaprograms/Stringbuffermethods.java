@@ -20,7 +20,7 @@ public class Stringbuffermethods {
 		
 		//Stringbuffer &  string builder is mutable
 		StringBuffer sb1=new StringBuffer("Mani");
-	    StringBuffer sb2=new StringBuffer("Mani");
+	    StringBuffer sb2=new StringBuffer("Manikandan");
 	    sb2.append("kandan");
 	    System.out.println(sb2);
 	   
